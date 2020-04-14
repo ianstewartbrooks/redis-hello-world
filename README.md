@@ -1,2 +1,2 @@
 # redis-hello-world
-A simple hello world using redis
+A very simple hello world python application using redis
